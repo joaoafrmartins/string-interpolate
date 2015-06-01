@@ -1,0 +1,22 @@
+{
+  "name": "string-interpolate",
+  "version": "0.0.0",
+  "main": "dist",
+  "description": "String Interpolate",
+  "keywords": [
+    "string",
+    "interpolate"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "João Afonso Martins",
+  "license": "MIT",
+  "homepage": "https://github.com/joaoafrmartins/string-interpolate",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/string-interpolate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/string-interpolate/issues"
+  }
+}
